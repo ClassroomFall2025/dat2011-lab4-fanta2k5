@@ -6,7 +6,7 @@ class sampham:
         #self.__giamgiasp = giamgiasp
 
     # def DocGiamGia(self):
-    #     return self.__giamgiasp
+    #     return self.__giamgiasp)
         
     def thuenhapkhau(self):
         return self.giasp * 0.1
