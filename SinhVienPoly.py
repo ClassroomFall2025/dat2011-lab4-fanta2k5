@@ -1,4 +1,4 @@
-# Bài 2
+# Bài 22
 class SinhVienPoly:
     def __init__(self, ho_ten, nganh_hoc):
         self.__ho_ten = ho_ten

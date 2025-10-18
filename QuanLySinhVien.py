@@ -1,7 +1,7 @@
 import SinhVienPoly as svpl
 
 class QuanLySinhVien:
-    # khởi tạo danh sách sinh viên ban đầu rỗng
+    # khởi tạo danh sách sinh viên ban đầu rỗngg
     def __init__(self):
         self.dssv = []
         

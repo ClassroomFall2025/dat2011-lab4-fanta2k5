@@ -1,4 +1,4 @@
-# Code lab 6 bài 1 ở đây
+# Code lab 6 bài 1 ở đâyy
 
 
 class ChuNhat:
